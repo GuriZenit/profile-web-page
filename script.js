@@ -9,6 +9,3 @@ window.$docsify = {
   name: "",
   repo: "",
 };
-
-const show = document.getElementsByClassName("cover show");
-show.style = "background:#7e2fc3"
