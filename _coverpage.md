@@ -9,4 +9,4 @@
 [GitHub](https://github.com/GuriZenit/)
 [More](#About)
 
-![color](#473240)
+![color](#200326)
