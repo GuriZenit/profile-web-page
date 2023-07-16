@@ -1,11 +1,13 @@
 window.$docsify = {
   search: "auto",
   auto2top: true,
-  coverpage: true,
+  coverpage: {
+    '/': 'cover.md'
+  },
   executeScript: true,
   loadSidebar: false,
   loadNavbar: false,
   mergeNavbar: false,
-  name: "",
-  repo: "",
+  name: "GuriZenit",
+  repo: "https://github.com/GuriZenit/profile-web-page",
 };
