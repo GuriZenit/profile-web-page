@@ -7,7 +7,6 @@ I like Python but it's not my goal, maybe one day if I dive into the AI ​​wo
 
 - [Twitter](https://twitter.com/gurizenit)
 - [Github](https://twitter.com/gurizenit)
-- [Dcoder](https://code.dcoder.tech/profile/gurizenit)
 
 ## Donate
 
