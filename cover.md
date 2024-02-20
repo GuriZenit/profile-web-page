@@ -4,7 +4,7 @@
 
 # GuriZenit
 
-> Hello, I'm a development student! (Desbloqueia minha conta X)
+> Hello, I'm a development student!
 
 [GitHub](https://github.com/GuriZenit/)
 [More](#About)
