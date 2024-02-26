@@ -4,7 +4,7 @@
 I like Python but it's not my goal, maybe one day if I dive into the AI ​​world.
 
 ## Social
-- [Github](https://twitter.com/gurizenit)
+- [Github](https://github.com/GuriZenit)
 
 ## Donate
 
